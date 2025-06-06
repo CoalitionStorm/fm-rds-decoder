@@ -8,14 +8,7 @@ This project decodes FM radio and extracts **RDS (Radio Data System)** informati
 
 | File | Description |
 |------|-------------|
-| `main.py` | Main decoder pipeline |
-| `fm-receiver-rds-packets.py` | RDS packet extraction |
-| `clean_FM_RDS_Info_Basic.py` | Simplified version |
-| `FM_RDS_Thonny_v1.py` | Older version (Thonny IDE) |
-| `fm.wav` | Sample FM radio IQ data |
-| `rds_log.txt` | Log of decoded RDS output |
-
----
+| `fm_rds_decoder.py` | Main decoder script |
 
 ## Requirements
 
