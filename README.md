@@ -30,3 +30,16 @@ This project decodes FM radio and extracts **RDS (Radio Data System)** informati
 pip install numpy scipy pyrtlsdr
 
 
+**## Features**
+
+- FM Demodulation
+- Stereo support
+- RDS extraction at 57 kHz
+- Group decoding (PS, RT, CT)
+
+**## Author**
+Soham Samantaray
+GitHub: CoalitionStorm
+
+**## License**
+This project is open-source and intended for educational use.
