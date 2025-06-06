@@ -1,10 +1,10 @@
-# FM + RDS Decoder using Python + RTL-SDR
+# 🎧 FM + RDS Decoder using Python + RTL-SDR
 
 This project decodes FM radio and extracts **RDS (Radio Data System)** information from IQ samples or live RTL-SDR input. Built with **Python**, **NumPy**, and **signal processing** techniques.
 
 ---
 
-## Project Files
+## 📂 Project Files
 
 | File | Description |
 |------|-------------|
@@ -17,33 +17,14 @@ This project decodes FM radio and extracts **RDS (Radio Data System)** informati
 
 ---
 
-## Requirements
+## 🛠 Requirements
 
 - Python 3.x
 - NumPy
 - SciPy
 - (Optional) `pyrtlsdr` for RTL-SDR support
 
-### 📦 Install:
+### 📦 Install
 
 ```bash
 pip install numpy scipy pyrtlsdr
-
-## How to Use
-
-python main.py
-
-
-## Features
-FM demodulation
-Stereo support
-RDS extraction at 57 kHz
-Group decoding (PS, RT, CT)
-
-## Author
-Soham Samantaray
-GitHub: CoalitionStorm
-
-
-## License
-This project is open-source and intended for educational use.
