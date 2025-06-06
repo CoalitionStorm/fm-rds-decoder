@@ -38,6 +38,10 @@ pip install numpy scipy pyrtlsdr
 - RDS extraction at 57 kHz
 - Group decoding (PS, RT, CT)
 
+## Sample Output
+
+![RDS Output Screenshot](images/rds_output.png)
+
 ## Author
 Soham Samantaray
 GitHub: CoalitionStorm
