@@ -27,7 +27,7 @@ This project decodes FM radio and extracts **RDS (Radio Data System)** informati
 ### 📦 Install:
 
 ```bash
-pip install numpy scipy pyrtlsdr```
+pip install numpy scipy pyrtlsdr
 
 ## How to Use
 
